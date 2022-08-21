@@ -1,4 +1,4 @@
-# An Online voting system
+# An Online Payroll system
 
 An online payroll system. A personal project developed during my NYSC service
 
